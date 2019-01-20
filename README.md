@@ -1,0 +1,2 @@
+# LanlanLeetcode
+Leetcode solution
