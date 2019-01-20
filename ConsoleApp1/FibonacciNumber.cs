@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public int Fib(int N)
         {
+            // Check boundary
             if (N == 0)
                 return 0;
 
