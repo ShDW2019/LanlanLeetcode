@@ -36,6 +36,5 @@ namespace ConsoleApp1
             string str1 = new string(data);
             return str1;
         }
-
     }
 }
